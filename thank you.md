@@ -1,4 +1,4 @@
-# jubilant-octo-dollop
+#octo-project
 
 en: thank you for downloading
 fr: merci d'avoir télécharger
