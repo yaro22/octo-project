@@ -158,10 +158,4 @@ def submit():
     return render(string_validite)
 
 
-
-
-# print(request.args)
-# age = request.args.get("age")
-# return f"Bonjour {name} vous avez {age} ans"
-
 app.run(host="localhost", port=8080)
